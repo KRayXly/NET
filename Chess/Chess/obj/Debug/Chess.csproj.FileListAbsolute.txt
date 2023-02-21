@@ -1,0 +1,11 @@
+D:\Lin\project\source\Chess\Chess\bin\Debug\Chess.exe.config
+D:\Lin\project\source\Chess\Chess\bin\Debug\Chess.exe
+D:\Lin\project\source\Chess\Chess\bin\Debug\Chess.pdb
+D:\Lin\project\source\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+D:\Lin\project\source\Chess\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+D:\Lin\project\source\Chess\Chess\obj\Debug\Chess.Form1.resources
+D:\Lin\project\source\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\Lin\project\source\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+D:\Lin\project\source\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\Lin\project\source\Chess\Chess\obj\Debug\Chess.exe
+D:\Lin\project\source\Chess\Chess\obj\Debug\Chess.pdb

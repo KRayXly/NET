@@ -1,0 +1,14 @@
+D:\Lin\project\source\project8\project8\bin\Debug\project8.exe.config
+D:\Lin\project\source\project8\project8\bin\Debug\project8.exe
+D:\Lin\project\source\project8\project8\bin\Debug\project8.pdb
+D:\Lin\project\source\project8\project8\obj\Debug\project8.csproj.AssemblyReference.cache
+D:\Lin\project\source\project8\project8\obj\Debug\project8.csproj.SuggestedBindingRedirects.cache
+D:\Lin\project\source\project8\project8\obj\Debug\project8.Form1.resources
+D:\Lin\project\source\project8\project8\obj\Debug\project8.Properties.Resources.resources
+D:\Lin\project\source\project8\project8\obj\Debug\project8.csproj.GenerateResource.cache
+D:\Lin\project\source\project8\project8\obj\Debug\project8.csproj.CoreCompileInputs.cache
+D:\Lin\project\source\project8\project8\obj\Debug\project8.exe
+D:\Lin\project\source\project8\project8\obj\Debug\project8.pdb
+D:\Lin\project\source\project8\project8\obj\Debug\project8.Form2.resources
+D:\Lin\project\source\project8\project8\obj\Debug\project8.Form3.resources
+D:\Lin\project\source\project8\project8\obj\Debug\project8.Form4.resources

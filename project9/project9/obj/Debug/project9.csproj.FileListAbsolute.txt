@@ -1,0 +1,11 @@
+D:\Lin\project\source\project9\project9\bin\Debug\project9.exe.config
+D:\Lin\project\source\project9\project9\bin\Debug\project9.exe
+D:\Lin\project\source\project9\project9\bin\Debug\project9.pdb
+D:\Lin\project\source\project9\project9\obj\Debug\project9.csproj.AssemblyReference.cache
+D:\Lin\project\source\project9\project9\obj\Debug\project9.csproj.SuggestedBindingRedirects.cache
+D:\Lin\project\source\project9\project9\obj\Debug\project9.Properties.Resources.resources
+D:\Lin\project\source\project9\project9\obj\Debug\project9.csproj.GenerateResource.cache
+D:\Lin\project\source\project9\project9\obj\Debug\project9.csproj.CoreCompileInputs.cache
+D:\Lin\project\source\project9\project9\obj\Debug\project9.exe
+D:\Lin\project\source\project9\project9\obj\Debug\project9.pdb
+D:\Lin\project\source\project9\project9\obj\Debug\project9.Form1.resources

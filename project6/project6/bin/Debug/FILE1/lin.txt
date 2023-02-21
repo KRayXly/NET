@@ -1,0 +1,10 @@
+（3）Java中随机数生成
+	Math库里的静态方法random()
+　　该方法的作用是产生0到1之间（包括0，但不包括1）的一个double值。
+       double rand = Math.random();
+	通过Random类的对象
+       Random rand = new Random();
+       int num=rand.nextInt(100)+1);
+（4）当前系统时间的获取：
+java.util.Date now=new java.util.Date();
+long time=now.getTime(); //返回的是以毫秒为单位的长整型值，表示的是距离1970年1月1日 00：00：00的毫秒数。

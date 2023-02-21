@@ -1,0 +1,15 @@
+D:\Lin\project\.net\project03\bin\Debug\net6.0\project03.exe
+D:\Lin\project\.net\project03\bin\Debug\net6.0\project03.deps.json
+D:\Lin\project\.net\project03\bin\Debug\net6.0\project03.runtimeconfig.json
+D:\Lin\project\.net\project03\bin\Debug\net6.0\project03.dll
+D:\Lin\project\.net\project03\bin\Debug\net6.0\project03.pdb
+D:\Lin\project\.net\project03\obj\Debug\net6.0\project03.csproj.AssemblyReference.cache
+D:\Lin\project\.net\project03\obj\Debug\net6.0\project03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lin\project\.net\project03\obj\Debug\net6.0\project03.AssemblyInfoInputs.cache
+D:\Lin\project\.net\project03\obj\Debug\net6.0\project03.AssemblyInfo.cs
+D:\Lin\project\.net\project03\obj\Debug\net6.0\project03.csproj.CoreCompileInputs.cache
+D:\Lin\project\.net\project03\obj\Debug\net6.0\project03.dll
+D:\Lin\project\.net\project03\obj\Debug\net6.0\refint\project03.dll
+D:\Lin\project\.net\project03\obj\Debug\net6.0\project03.pdb
+D:\Lin\project\.net\project03\obj\Debug\net6.0\project03.genruntimeconfig.cache
+D:\Lin\project\.net\project03\obj\Debug\net6.0\ref\project03.dll

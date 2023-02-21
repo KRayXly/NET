@@ -1,0 +1,15 @@
+D:\Lin\project\source\project6\project6\bin\Debug\project6.exe.config
+D:\Lin\project\source\project6\project6\bin\Debug\project6.exe
+D:\Lin\project\source\project6\project6\bin\Debug\project6.pdb
+D:\Lin\project\source\project6\project6\obj\Debug\project6.csproj.AssemblyReference.cache
+D:\Lin\project\source\project6\project6\obj\Debug\project6.csproj.SuggestedBindingRedirects.cache
+D:\Lin\project\source\project6\project6\obj\Debug\project6.Form1.resources
+D:\Lin\project\source\project6\project6\obj\Debug\project6.Properties.Resources.resources
+D:\Lin\project\source\project6\project6\obj\Debug\project6.csproj.GenerateResource.cache
+D:\Lin\project\source\project6\project6\obj\Debug\project6.csproj.CoreCompileInputs.cache
+D:\Lin\project\source\project6\project6\obj\Debug\project6.exe
+D:\Lin\project\source\project6\project6\obj\Debug\project6.pdb
+D:\Lin\project\source\project6\project6\obj\Debug\project6.Form2.resources
+D:\Lin\project\source\project6\project6\obj\Debug\project6.Form3.resources
+D:\Lin\project\source\project6\project6\obj\Debug\project6.Form4.resources
+D:\Lin\project\source\project6\project6\obj\Debug\project6.Form5.resources

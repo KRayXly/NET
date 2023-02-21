@@ -1,0 +1,14 @@
+D:\Lin\project\source\window0930\window0930\bin\Debug\window0930.exe.config
+D:\Lin\project\source\window0930\window0930\bin\Debug\window0930.exe
+D:\Lin\project\source\window0930\window0930\bin\Debug\window0930.pdb
+D:\Lin\project\source\window0930\window0930\obj\Debug\window0930.csproj.AssemblyReference.cache
+D:\Lin\project\source\window0930\window0930\obj\Debug\window0930.csproj.SuggestedBindingRedirects.cache
+D:\Lin\project\source\window0930\window0930\obj\Debug\window0930.Form1.resources
+D:\Lin\project\source\window0930\window0930\obj\Debug\window0930.Properties.Resources.resources
+D:\Lin\project\source\window0930\window0930\obj\Debug\window0930.csproj.GenerateResource.cache
+D:\Lin\project\source\window0930\window0930\obj\Debug\window0930.csproj.CoreCompileInputs.cache
+D:\Lin\project\source\window0930\window0930\obj\Debug\window0930.exe
+D:\Lin\project\source\window0930\window0930\obj\Debug\window0930.pdb
+D:\Lin\project\source\window0930\window0930\obj\Debug\window0930.Form2.resources
+D:\Lin\project\source\window0930\window0930\obj\Debug\window0930.Form3.resources
+D:\Lin\project\source\window0930\window0930\obj\Debug\window0930.Form4.resources

@@ -1,0 +1,15 @@
+D:\Lin\project\.net\project02\bin\Debug\net6.0\project02.exe
+D:\Lin\project\.net\project02\bin\Debug\net6.0\project02.deps.json
+D:\Lin\project\.net\project02\bin\Debug\net6.0\project02.runtimeconfig.json
+D:\Lin\project\.net\project02\bin\Debug\net6.0\project02.dll
+D:\Lin\project\.net\project02\bin\Debug\net6.0\project02.pdb
+D:\Lin\project\.net\project02\obj\Debug\net6.0\project02.csproj.AssemblyReference.cache
+D:\Lin\project\.net\project02\obj\Debug\net6.0\project02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lin\project\.net\project02\obj\Debug\net6.0\project02.AssemblyInfoInputs.cache
+D:\Lin\project\.net\project02\obj\Debug\net6.0\project02.AssemblyInfo.cs
+D:\Lin\project\.net\project02\obj\Debug\net6.0\project02.csproj.CoreCompileInputs.cache
+D:\Lin\project\.net\project02\obj\Debug\net6.0\project02.dll
+D:\Lin\project\.net\project02\obj\Debug\net6.0\refint\project02.dll
+D:\Lin\project\.net\project02\obj\Debug\net6.0\project02.pdb
+D:\Lin\project\.net\project02\obj\Debug\net6.0\project02.genruntimeconfig.cache
+D:\Lin\project\.net\project02\obj\Debug\net6.0\ref\project02.dll

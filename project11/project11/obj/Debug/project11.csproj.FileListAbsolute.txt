@@ -1,0 +1,12 @@
+D:\Lin\project\source\project11\project11\bin\Debug\project11.exe.config
+D:\Lin\project\source\project11\project11\bin\Debug\project11.exe
+D:\Lin\project\source\project11\project11\bin\Debug\project11.pdb
+D:\Lin\project\source\project11\project11\obj\Debug\project11.csproj.AssemblyReference.cache
+D:\Lin\project\source\project11\project11\obj\Debug\project11.csproj.SuggestedBindingRedirects.cache
+D:\Lin\project\source\project11\project11\obj\Debug\project11.Form1.resources
+D:\Lin\project\source\project11\project11\obj\Debug\project11.Properties.Resources.resources
+D:\Lin\project\source\project11\project11\obj\Debug\project11.csproj.GenerateResource.cache
+D:\Lin\project\source\project11\project11\obj\Debug\project11.csproj.CoreCompileInputs.cache
+D:\Lin\project\source\project11\project11\obj\Debug\project11.exe
+D:\Lin\project\source\project11\project11\obj\Debug\project11.pdb
+D:\Lin\project\source\project11\project11\obj\Debug\project11.Form2.resources
